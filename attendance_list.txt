@@ -6,7 +6,7 @@
 6.
 7.Artur
 8.
-9.
+9. Kowadlo
 10.
 11. Martyna B
 12.
@@ -25,6 +25,7 @@
 25. Krystian
 26. jul :pp
 27.
+27. jul xpp
 28.Paweł Grosz
 29. Natalka
 30.
